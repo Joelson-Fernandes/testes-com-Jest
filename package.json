@@ -25,6 +25,8 @@
   "description": "Repositório de aulas do curso de testes com Jest",
   "main": "index.js",
   "scripts": {
+    "test": "jest",
+    "test:silent": "jest --watchAll --silent --noStackTrace",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "author": "Joelson Fernandes",
