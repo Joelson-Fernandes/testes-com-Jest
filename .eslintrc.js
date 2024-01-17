@@ -22,5 +22,6 @@ module.exports = {
     'import/extensions': 0,
     'no-useless-constructor': 0,
     'max-classes-per-file': 0,
+    'no-empty-function': 0,
   },
 };
